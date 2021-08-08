@@ -1,0 +1,6 @@
+00:06:05.823 [Forwarding newSession on session null to remote] INFO  main_package.Base - Opened URL
+00:06:16.994 [AsyncHttpClient-1-6] TRACE io.netty.handler.codec.http.websocketx.WebSocket08FrameEncoder - Encoding WebSocket Frame opCode=8 length=26
+00:06:17.002 [AsyncHttpClient-1-7] TRACE io.netty.handler.codec.http.websocketx.WebSocket08FrameEncoder - Encoding WebSocket Frame opCode=8 length=26
+00:06:19.432 [AsyncHttpClient-1-2] DEBUG io.netty.buffer.PoolThreadCache - Freed 19 thread-local buffer(s) from thread: AsyncHttpClient-1-2
+00:06:19.432 [AsyncHttpClient-1-4] DEBUG io.netty.buffer.PoolThreadCache - Freed 2 thread-local buffer(s) from thread: AsyncHttpClient-1-4
+00:06:19.432 [AsyncHttpClient-1-5] DEBUG io.netty.buffer.PoolThreadCache - Freed 2 thread-local buffer(s) from thread: AsyncHttpClient-1-5

@@ -1,0 +1,8 @@
+23:59:21.042 [TestNG-tests-2] INFO  main_package.Base - initializeDriver
+23:59:21.114 [TestNG-tests-1] INFO  main_package.Base - initializeDriver
+23:59:24.571 [TestNG-tests-2] INFO  main_package.Base - Opened URL
+23:59:24.580 [TestNG-tests-1] INFO  main_package.Base - Opened URL
+23:59:26.016 [TestNG-tests-1] INFO  main_package.Base - Did assertion
+23:59:26.976 [TestNG-tests-1] INFO  main_package.Base - Opened URL
+23:59:27.154 [TestNG-tests-2] INFO  main_package.Base - Opened URL
+23:59:28.260 [TestNG-tests-1] INFO  main_package.Base - Did assertion
